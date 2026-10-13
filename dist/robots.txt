@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ainalym-market-ak-1013.akmyrzakartanbaj.chatgpt.site/sitemap.xml

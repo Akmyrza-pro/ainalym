@@ -1,0 +1,13 @@
+{
+  "name": "ainalym-market",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Қазақша хабарландыру сервисінің фреймворксіз оқу жобасы",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/verify.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

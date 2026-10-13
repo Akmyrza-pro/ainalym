@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 600" role="img" aria-labelledby="title description">
+  <title id="title">Заттарға жаңа өмір сыйлаңыз</title>
+  <desc id="description">Шам, жасыл кресло, фотоаппарат, кітаптар және Ainalym хабарландыру карточкасы бейнеленген иллюстрация.</desc>
+  <defs>
+    <filter id="soft-shadow" x="-35%" y="-35%" width="180%" height="180%"><feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#25322c" flood-opacity=".10"/></filter>
+    <filter id="card-shadow" x="-35%" y="-35%" width="180%" height="180%"><feDropShadow dx="0" dy="10" stdDeviation="7" flood-color="#25322c" flood-opacity=".13"/></filter>
+    <linearGradient id="arch" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#e98360"/><stop offset="1" stop-color="#e4663d"/></linearGradient>
+    <linearGradient id="chair" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#778971"/><stop offset="1" stop-color="#5b725a"/></linearGradient>
+  </defs>
+  <ellipse cx="333" cy="518" rx="260" ry="35" fill="#e8e1d2"/>
+  <path d="M164 485V267a170 170 0 0 1 340 0v218Z" fill="url(#arch)"/>
+  <path d="M192 473V269a142 142 0 0 1 284 0v204Z" fill="#eda285" opacity=".32"/>
+  <g stroke="#25322c" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <g filter="url(#soft-shadow)">
+      <path d="M106 487h84" fill="none" stroke-width="7"/>
+      <path d="M148 244v241" fill="none" stroke-width="6"/>
+      <path d="M118 244h60" fill="none" stroke-width="5"/>
+      <path d="M94 163h106l29 87H65Z" fill="#f6d875"/>
+      <path d="M95 163h104" stroke="#d7b548" stroke-width="5"/>
+      <path d="M77 249h139" stroke="#d7b548" stroke-width="5"/>
+      <path d="M149 250v15" stroke="#d7b548" stroke-width="5"/>
+      <path d="M186 253v40" fill="none" stroke-width="2"/>
+      <circle cx="186" cy="296" r="4" fill="#25322c"/>
+    </g>
+    <g filter="url(#soft-shadow)">
+      <path d="m235 446-15 57h16l24-57m127 0 23 57h16l-15-67" fill="#9c7150"/>
+      <path d="M215 302c0-57 25-98 100-98s107 31 107 88v121H215Z" fill="url(#chair)"/>
+      <path d="M239 309c0-47 10-83 77-83s83 30 83 79v96H239Z" fill="#829579" stroke="#526c50"/>
+      <path d="M276 239c-9 36-9 112-7 157m79-157c8 35 9 111 7 157" fill="none" stroke="#6a805f"/>
+      <path d="M218 369c32-19 154-21 195 0l4 65H218Z" fill="#a5b491" stroke="#526c50"/>
+      <path d="M218 395c34 12 164 13 197-1" fill="none" stroke="#8b9c79"/>
+      <path d="M195 332c-17 0-29 14-27 34l11 73c2 17 13 27 32 27h25V357c0-14-7-25-23-25Z" fill="#6c8264"/>
+      <path d="M415 329c19-5 39 7 39 26l-6 83c-1 18-13 27-32 27h-25V356c0-14 7-23 24-27Z" fill="#6c8264"/>
+      <path d="M183 354c12-6 29-5 40 0m181-1c12-7 29-6 40 1" fill="none" stroke="#8fa182"/>
+      <path d="M236 434h155v32H236Z" fill="#72876a" stroke="#526c50"/>
+      <path d="M237 449h152" fill="none" stroke="#8b9c79"/>
+    </g>
+    <g filter="url(#card-shadow)">
+      <path d="M472 488h95l-11 17h-95Z" fill="#25322c"/>
+      <path d="M462 470h90v17h-90Z" fill="#b1baa1"/>
+      <path d="M473 451h84v18h-84Z" fill="#f6d875"/>
+      <path d="M483 432h82v18h-82Z" fill="#f7f3ea"/>
+      <path d="M488 440h68m-77 19h64m-73 18h66" fill="none" stroke="#8a8c78" stroke-width="1.5"/>
+      <path d="M509 399c-2-8-4-14-2-20l8-17h28l8 17c3 6 1 13-2 20l-5 25h-29Z" fill="#bb694c"/>
+      <path d="M516 363h26" stroke="#914e39" stroke-width="4"/>
+      <path d="M529 361v-67m0 42-23-21m23 8 24-26" fill="none" stroke="#6c8264"/>
+      <path d="M526 322c-21 0-27-16-27-16 17-4 25 1 27 16Z" fill="#b1baa1" stroke="#6c8264"/>
+      <path d="M532 308c0-17 20-25 20-25 6 17-6 27-20 25Z" fill="#b1baa1" stroke="#6c8264"/>
+      <path d="M529 300c-13-8-13-25-13-25 18 2 20 15 13 25Z" fill="#71876a" stroke="#6c8264"/>
+    </g>
+    <g transform="translate(73 411) rotate(-8 65 44)" filter="url(#card-shadow)">
+      <path d="M15 11h20l9-13h43l10 13h25c8 0 13 6 13 13v65c0 7-5 13-13 13H15C7 102 2 96 2 89V24C2 17 7 11 15 11Z" fill="#424b43"/>
+      <path d="M8 32h121v44H8Z" fill="#686b5b" stroke="none"/>
+      <circle cx="69" cy="57" r="35" fill="#25322c" stroke="#c7c4ad" stroke-width="5"/>
+      <circle cx="69" cy="57" r="24" fill="#747d73" stroke="#111e19" stroke-width="5"/>
+      <circle cx="69" cy="57" r="14" fill="#25322c" stroke="none"/>
+      <circle cx="64" cy="51" r="6" fill="#b1baa1" stroke="none"/>
+      <rect x="15" y="19" width="19" height="11" rx="3" fill="#f7f3ea" stroke="none"/>
+      <path d="M110 18h12" stroke="#f6d875" stroke-width="4"/>
+    </g>
+  </g>
+  <g transform="translate(456 125) rotate(9)" filter="url(#card-shadow)">
+    <rect width="134" height="173" rx="16" fill="#fffdf8" stroke="#25322c" stroke-width="2"/>
+    <rect x="11" y="12" width="112" height="92" rx="9" fill="#e3e7dc"/>
+    <path d="M44 82V53c0-14 9-20 23-20s24 6 24 20v29Z" fill="#819477"/>
+    <path d="M39 64h12v27H39zm45 0h12v27H84Z" fill="#647c5c"/>
+    <path d="M51 77h34v13H51Z" fill="#a5b491"/>
+    <path d="M46 91l-3 6m45-6 3 6" stroke="#9c7150" stroke-width="3" stroke-linecap="round"/>
+    <text x="12" y="124" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#25322c">Жайлы кресло</text>
+    <text x="12" y="148" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#25322c">25 000 ₸</text>
+    <circle cx="111" cy="143" r="10" fill="#e4663d"/>
+    <path d="m107 142 3 3 5-6" fill="none" stroke="#fffdf8" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(383 43)" filter="url(#card-shadow)">
+    <circle cx="0" cy="0" r="40" fill="#f6d875"/>
+    <g fill="none" stroke="#25322c" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-21 2a21 21 0 0 1 36-17l4 5m-1-12 1 12-12-1"/>
+      <path d="M21-1A21 21 0 0 1-15 15l-4-5m1 12-1-12 12 1"/>
+    </g>
+  </g>
+  <g fill="#25322c">
+    <path d="m227 81 3 11 11 3-11 3-3 11-3-11-11-3 11-3Z"/>
+    <path d="m585 370 3 9 9 3-9 3-3 9-3-9-9-3 9-3Z"/>
+    <circle cx="85" cy="342" r="4"/><circle cx="532" cy="83" r="4"/>
+  </g>
+</svg>
